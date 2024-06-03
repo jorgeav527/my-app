@@ -5,7 +5,7 @@
 </script>
 
 
-<div class="">
+<div class="flex flex-col min-h-screen">
 	<Header />
 	<!-- Main Content -->
 	<main class="flex-grow p-8">

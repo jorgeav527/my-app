@@ -18,7 +18,3 @@
     <h2 class="text-2xl font-bold">Thoughts</h2>
     <p>Thoughts content goes here.</p>
 </section>
-
-<style>
-
-</style>
